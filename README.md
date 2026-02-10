@@ -1,9 +1,8 @@
  # 🚀 DSA Interview Preparation
 
 Hi, I'm Ashutosh.
-This repository contains all LeetCode problems solved by me with detailed approaches
-I'll be sharing all my leetcode problems solved by me everyday
-leetcode profile link-https://leetcode.com/u/noob_asshu/
+This repository contains all LeetCode problems solved by me with detailed approaches solved by me everyday
+Leetcode profile link-https://leetcode.com/u/noob_asshu/
 
 
 ## 📊 Progress Tracker
