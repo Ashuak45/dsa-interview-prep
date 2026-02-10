@@ -20,7 +20,7 @@ leetcode profile link-https://leetcode.com/u/noob_asshu/
 | DP | |
 |Binary Search| 1|
 
-Total Problems: 2
+Total Problems: 3
 
 ## 📚 Topics Covered
 - Arrays
