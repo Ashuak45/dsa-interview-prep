@@ -18,6 +18,7 @@ leetcode profile link-https://leetcode.com/u/noob_asshu/
 | Trees |  |
 | Graphs |  |
 | DP | |
+|Binary Search|  |
 
 Total Problems: 2
 
