@@ -7,7 +7,7 @@ class Solution {
         int max = 0;
         
         // Step 1: Finding the  maximum
-        for (int candy : candies) {
+        for (int candy : candies) { //using for-each loop or advanced for loop to transfer the elements of candies to candy
             if (candy > max) {
                 max = candy;
             }
