@@ -35,6 +35,8 @@ Since array is circular, we use modulo to wrap around.
    - Place `nums[i]` at `(i + k) % n` in `temp`.
 4. Copy `temp` back into `nums`.
 
+
+sometimes getting to the solution is more important than following the right approach to that particular ques....will update it later fs
 ---
 
 ## ⏱ Time Complexity
