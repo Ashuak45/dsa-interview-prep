@@ -17,9 +17,9 @@ Leetcode profile link-https://leetcode.com/u/noob_asshu/
 | Trees |  |
 | Graphs |  |
 | DP | |
-|Binary Search| 1|
+|Binary Search| 4|
 
-Total Problems: 3
+Total Problems: 20
 
 ## 📚 Topics Covered
 - Arrays
@@ -43,6 +43,6 @@ Master DSA for SDE roles in top product-based companies.
 
 
 ## 📈 Difficulty Distribution
-- Easy: 2
-- Medium: 
-- Hard: 
+- Easy: 14
+- Medium: 6
+- Hard: 0
