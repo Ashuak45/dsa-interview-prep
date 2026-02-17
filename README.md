@@ -9,7 +9,7 @@ Leetcode profile link-https://leetcode.com/u/noob_asshu/
 
 | Topic | Problems Solved |
 |-------|-----------------|
-| Arrays | 2|
+| Arrays | 16|
 | Strings | |
 | Linked List | |
 | Stack & Queue | |
