@@ -21,7 +21,7 @@ Leetcode profile link-https://leetcode.com/u/noob_asshu/
 
 Total Problems: 20
 
-## 📚 Topics Covered
+## 📚 Topics I m gonna cover
 - Arrays
 - Strings
 - Binary Search
